@@ -25,3 +25,4 @@ futbol-etl-pipeline/
 ├── .gitignore               # Archivos a ignorar
 └── LICENSE                  # Licencia del proyecto
 
+
